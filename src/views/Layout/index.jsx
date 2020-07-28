@@ -6,7 +6,7 @@ import Home from '../Home'
 import HouseList from '../HouseList'
 import News from '../News'
 import My from '../My'
-import NotFount from '../NotFound'
+import NotFount from '../NotFount'
 
 export default class Layout extends Component {
     render() {

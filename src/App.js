@@ -5,7 +5,7 @@ import { HashRouter as Router, Route, Switch, Redirect } from 'react-router-dom'
 
 import Layout from './views/Layout'
 import Login from './views/Login'
-import NotFound from './views/NotFound'
+import NotFound from './views/NotFount'
 
 function App() {
   return (
